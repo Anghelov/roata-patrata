@@ -2,8 +2,8 @@
 The Best restaurant in town
 
 [Staff](staff.md)\
-Menu\
-About\
-Contact
+[Menu](Menu.md)\
+[History](History.md)\
+[Reviews](reviews.md)
 
 
