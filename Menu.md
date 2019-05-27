@@ -1,11 +1,13 @@
 # Meniu restaurant Roata-Patrata
 
- **Meniul Zilei**
- 1. Ciorba
- 2. Piept de pui la gratar cu cartofi
- 3. Racoritoare
+ **Felul Doi**
+ 1. [Burger](burger.md)
+ 2. [Lasagna](lasagna.md)
+ 3. [Bruschete](bruscheta.md)
 
  **Ciorbe**
- 1. Ciorba de burta
- 2. Ciorba de vacuta
- 3. Ciorba de pui a la grec
+ 1. [Soup1](Soup-dish-one.md)
+ 2. [Soup2](Soup-dish-two.md)
+
+ **Deserturi**
+ 1. [Pancake](pancake.md)
