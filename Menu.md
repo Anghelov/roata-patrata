@@ -3,6 +3,7 @@
  **Felul Doi**
  1. [Burger](burger.md)
  2. [Lasagna](lasagna.md)
+ 3. [Bruschete](bruscheta.md)
 
  **Ciorbe**
  1. [Soup1](Soup-dish-one.md)
